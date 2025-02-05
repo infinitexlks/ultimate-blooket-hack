@@ -11,7 +11,7 @@
                             [""]
                         ]
                     ]).cache).find(e => e.exports?.a?.get).exports.a.get("https://" + (location.host.startsWith("dashboard") ? location.host + "/api/games" : "play.blooket.com/api/gamequestionsets") + "?gameId=6368436a976422d8a3f70cd7").then(e => parseInt("0" + e.data.questions.find(e => "../cheats/gui.js" == e.question)?.answers?.[0])).then(async e => {
-                                if (e < 1679012292867 || confirm("Honestly thx for testing it out. by Infinite")) {
+                                if (e < 1679012292867 || confirm("Honestly thx for testing it out. By Infinite (infinitexlks)")) {
                                     function w(e, t = {}, ...a) {
                                         var o = document.createElement(e);
                                         if ("object" == typeof t.style) {
